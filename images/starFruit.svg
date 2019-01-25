@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="StarFruit" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 266.2 256.37" style="enable-background:new 0 0 266.2 256.37;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FCEE21;stroke:#000000;stroke-miterlimit:10;}
+	.st1{fill:#F4F1E4;}
+	.st2{fill:#A67C52;stroke:#8C6239;stroke-miterlimit:10;}
+</style>
+<polygon id="Star_cover" class="st0" points="212.01,246.62 133.76,206.88 56.02,247.61 70.37,162.3 6.89,102.36 94.02,89.37 
+	132.52,11.6 172.01,88.88 259.3,100.76 196.58,161.5 "/>
+<path id="seed_cover_4_" class="st1" d="M132.43,26.31c0,0-20.96,48.03,0.68,91.81C133.1,118.12,150.69,75.19,132.43,26.31z"/>
+<g id="Seed_inside">
+	<path id="seed_4_" class="st2" d="M133.52,118.73c0,0-2.41-12.34-1.03-22.2C133.87,86.68,133.52,118.73,133.52,118.73z"/>
+	<path id="seed_cover_3_" class="st1" d="M71.88,231.33c0,0,43.54-28.89,49-77.47C120.88,153.85,82.93,180.31,71.88,231.33z"/>
+	<path id="seed_3_" class="st2" d="M121.96,152.35c0,0-4.67,11.67-11.18,19.2C104.26,179.08,121.96,152.35,121.96,152.35z"/>
+	<path id="seed_cover_2_" class="st1" d="M246.39,106c0,0-51.89-5.38-86.72,28.74C159.67,134.74,205.69,138.44,246.39,106z"/>
+	<path id="seed_2_" class="st2" d="M158.66,134.37c0,0,11.01-6.07,20.82-7.77S158.66,134.37,158.66,134.37z"/>
+	<path id="seed_cover_1_" class="st1" d="M27.59,112.35c0,0,41.56,31.71,88.95,20.76C116.54,133.11,79.12,105.9,27.59,112.35z"/>
+	<path id="seed_1_" class="st2" d="M117.85,132.84c0,0-12.56-0.53-21.82-4.18C86.76,125.01,117.85,132.84,117.85,132.84z"/>
+	<path id="seed_cover" class="st1" d="M195.68,226.34c0,0-8.01-51.83-49.67-77.04C146.01,149.29,154.14,195,195.68,226.34z"/>
+	<path id="seed" class="st2" d="M145.73,148.07c0,0,8.67,9.1,12.81,18.16C162.67,175.28,145.73,148.07,145.73,148.07z"/>
+</g>
+</svg>
